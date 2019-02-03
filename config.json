@@ -6,6 +6,6 @@
 	],
 	"roleName": "6",
 	"colors": 6,
-	"speed": 10000,
+	"speed": 60000,
 	"logging": true
 }
