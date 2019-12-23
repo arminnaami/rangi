@@ -1,2 +1,2 @@
-# rangi
-rangi
+# Rainbow-Bot
+Rainbow-Bot
